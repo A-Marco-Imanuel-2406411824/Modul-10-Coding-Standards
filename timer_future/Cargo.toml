@@ -1,0 +1,8 @@
+[package]
+name = "timer_future"
+version = "0.1.0"
+authors = ["MarcoImanuel/2406411824"]
+edition = "2024"
+
+[dependencies]
+futures = "0.3"
